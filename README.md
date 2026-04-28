@@ -6,7 +6,7 @@ Welcome to my portfolio! This project is a modern, responsive web application bu
 
 ## 👤 About Me
 
-**Akash Kumar Gautam**
+**Ritik**
 Data Analytics Enthusiast | Newton School of Technology, Rishihood University
 
 I focus on analyzing data, building interactive dashboards, and understanding patterns in datasets. I enjoy working with tools like Tableau, Excel, and basic web technologies to create simple and effective solutions.
@@ -50,7 +50,7 @@ I focus on analyzing data, building interactive dashboards, and understanding pa
 ### Installation
 
 ```bash
-git clone https://github.com/Akashgautam25/DVA_Portfolio.git
+git clone https://github.com/Ritik-rao8/DVA_PORTFOLIO.git
 cd DVA_Portfolio
 npm install
 npm run dev
@@ -60,13 +60,13 @@ npm run dev
 
 ## 📫 Contact Information
 
-📧 [Email](mailto:akash.gautam2024@nst.rishihood.edu.in)<br>
-🔗 [LinkedIn](https://www.linkedin.com/in/akash-gautam-42ba31307/)<br>
-💻 [GitHub](https://github.com/Akashgautam25)
+📧 [Email](mailto:ydv321ritik@gmail.com)<br>
+🔗 [LinkedIn](https://www.linkedin.com/in/ritik0385/)<br>
+💻 [GitHub](https://github.com/Ritik-rao8)
 
 
 ---
 
 ## 🌐 Live Portfolio
 
-👉 https://akashgautam25.github.io/DVA_Portfolio/
+👉 https://ritik-rao8.github.io/DVA_PORTFOLIO/
